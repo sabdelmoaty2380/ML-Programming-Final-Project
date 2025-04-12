@@ -1,1 +1,4 @@
 /training.1600000.processed.noemoticon.csv
+/df_tweets_cleaned.csv
+/secret_key.py
+/__pycache__
